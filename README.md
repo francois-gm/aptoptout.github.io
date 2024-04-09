@@ -38,9 +38,11 @@ Options:
  
 ## A portfolio website
 
-This is a lightweight, pure HTML & CSS, portfolio website template which is free to be used and adopted for anyone.
+For this workshop, we will think about your online presence in the form of a (traditional) hand-coded website.
 
-> Small note: I've added a `script.js` to illustrate how to potentially add JavaScript, if you have no need for JavaScript, you can remove the `script.js` as well as remove the `<script>` tags in the HTML documents.
+We will work from a simple HTML template that covers the essentials. This lightweight, pure HTML & CSS portfolio template is free to be used and adopted, modified, and expanded by anyone. The original template has been graciously thanks to Martijn de Heer (see [original template here](https://github.com/aptoptout/aptoptout.github.io)).
+
+> Small note: A `script.js` has been addded at the end of the HTML document to illustrate how to potentially add JavaScript, if you have no need for JavaScript, you can remove the `script.js` as well as remove the `<script>` tags in the HTML documents.
 
 ### Core focus
 
@@ -87,15 +89,18 @@ index.html             (the homepage's HTML page)
 
 ## Web typography
 
-Web fonts are specific files (.woff or .woff2) which you can use in CSS to use on your website. There are many free-to-use fonts for on the web and also a tool to convert other font files (.ttf, otf) to web font files with Font Squirrel but keep in mind that font licenses are specific to the usage. So if you buy a print- or desktop-license for a font you're not allowed to use it online unless you buy the web-license as well.
+Web fonts are specific files (.woff or .woff2) which you can use in CSS to use on your website. There are many free-to-use fonts for on the web and also a tool to convert other font files (.ttf, otf) to web font files with [Font Squirrel](https://www.fontsquirrel.com) or [Transfonter](https://transfonter.org) but keep in mind that font licenses are specific to the usage. So if you buy a print or desktop license for a font you're not allowed to use it online unless you buy the web license as well.
 
 **Web font resources**
 
-- Open Foundry **—>** [open-foundry.com](https://open-foundry.com/)
-- Badass Libre fonts by womxn **—>** [design-research.be](https://www.design-research.be/by-womxn/)
-- Adobe Typekit **—>** [fonts.adobe.com](https://fonts.adobe.com/)
-- Google Fonts **—>** [fonts.google.com](https://fonts.google.com/)
-- Font Squirrel **—>** [fontsquirrel.com](https://www.fontsquirrel.com/)
+- Open Foundry **→** [open-foundry.com](https://open-foundry.com/)
+- Badass Libre fonts by womxn **→** [design-research.be](https://www.design-research.be/by-womxn/)
+- Bye Bye Binary typotheque **→** [typotheque.genderfluid.space](https://typotheque.genderfluid.space)
+- Use & Modify **→** [usemodify.com](https://usemodify.com)
+- Velvetyne type **→** [velvetyne.fr](https://velvetyne.fr)
+- Adobe Typekit **→** [fonts.adobe.com](https://fonts.adobe.com/)
+- Google Fonts **→** [fonts.google.com](https://fonts.google.com/)
+- Font Squirrel **→** [fontsquirrel.com](https://www.fontsquirrel.com/)
 
 ## Preparing media for online use
 
