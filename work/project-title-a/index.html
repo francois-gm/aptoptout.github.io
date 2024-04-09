@@ -32,11 +32,11 @@
 
     </head>
 
-    <body class="column-grid column-grid-12">
+    <body class="column-grid column-grid-wrapper">
         <!-- visible content here -->
 
         <!-- navigation -->
-        <nav class="column-small stick-to-top">
+        <nav class="column-aside stick-to-top">
             <h1>
                 <a href="/">François Girard-Meunier</a>
             </h1>
@@ -57,54 +57,60 @@
         </nav>
 
         <!-- placing the main content of the page in a main block -->
-        <main class="column-grid column-grid-9">
-            <section class="project-info column-small stick-to-top">
-                <h1 class="project-info-name">
-                    Project Title A
-                </h1>
+        <main class="column-main">
 
-                <p class="project-info-metadata">
-                    2022, exhibition
-                </p>
+            <article class="column-grid column-grid-inner">
 
-                <p class="project-info-description">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vel ultricies justo, ac sollicitudin urna. Vivamus ac suscipit eros, eget venenatis odio. Cras mattis mauris et leo interdum, eu porta sapien gravida. Pellentesque lorem est, lacinia eu risus et, tincidunt consectetur ex. Vestibulum sit amet ante metus. Etiam ac ligula euismod, aliquet quam et, mattis nisl. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam ornare neque aliquam, rutrum libero nec, viverra nunc. Donec sapien diam, placerat vitae porta sed, viverra luctus eros. Maecenas sed nisl non est pharetra fermentum id ac turpis. Mauris aliquam convallis justo at pharetra. Fusce et dui ligula. Sed eget aliquet libero.<br>
-                    <br>
-                    Curabitur maximus nisl nunc. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas eget nisl odio. Phasellus id dapibus dolor, vel laoreet ante. Morbi mollis finibus sapien, eget ornare magna faucibus sed. Praesent euismod ultricies justo, sed tristique enim mattis in. Aenean id viverra nulla. Nullam elit arcu, aliquet eget pharetra quis, commodo vitae lacus.
-                </p>
-            </section>
+                <section class="project-info column-project stick-to-top">
+                    <h1 class="project-info-name">
+                        Project Title A
+                    </h1>
 
-            <section class="project-media column-large">
-                <figure>
-                    <img src="./media/cover.jpg" alt="Image of my project">
+                    <p class="project-info-metadata">
+                        2022, exhibition
+                    </p>
 
-                    <figcaption>Photo caption & credits</figcaption>
-                </figure>
+                    <p class="project-info-description">
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vel ultricies justo, ac sollicitudin urna. Vivamus ac suscipit eros, eget venenatis odio. Cras mattis mauris et leo interdum, eu porta sapien gravida. Pellentesque lorem est, lacinia eu risus et, tincidunt consectetur ex. Vestibulum sit amet ante metus. Etiam ac ligula euismod, aliquet quam et, mattis nisl. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam ornare neque aliquam, rutrum libero nec, viverra nunc. Donec sapien diam, placerat vitae porta sed, viverra luctus eros. Maecenas sed nisl non est pharetra fermentum id ac turpis. Mauris aliquam convallis justo at pharetra. Fusce et dui ligula. Sed eget aliquet libero.<br>
+                        <br>
+                        Curabitur maximus nisl nunc. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas eget nisl odio. Phasellus id dapibus dolor, vel laoreet ante. Morbi mollis finibus sapien, eget ornare magna faucibus sed. Praesent euismod ultricies justo, sed tristique enim mattis in. Aenean id viverra nulla. Nullam elit arcu, aliquet eget pharetra quis, commodo vitae lacus.
+                    </p>
+                </section>
 
-                <figure>
-                    <img src="./media/cover.jpg" alt="Image of my project">
+                <section class="project-media column-media">
+                    <figure>
+                        <img src="./media/cover.jpg" alt="Image of my project">
 
-                    <figcaption>Photo caption & credits</figcaption>
-                </figure>
+                        <figcaption>Photo caption & credits</figcaption>
+                    </figure>
 
-                <figure>
-                    <img src="./media/cover.jpg" alt="Image of my project">
+                    <figure>
+                        <img loading="lazy" src="./media/cover.jpg" alt="Image of my project">
 
-                    <figcaption>Photo caption & credits</figcaption>
-                </figure>
+                        <figcaption>Photo caption & credits</figcaption>
+                    </figure>
 
-                <figure>
-                    <img src="./media/cover.jpg" alt="Image of my project">
+                    <figure>
+                        <img loading="lazy" src="./media/cover.jpg" alt="Image of my project">
 
-                    <figcaption>Photo caption & credits</figcaption>
-                </figure>
-            </section>
+                        <figcaption>Photo caption & credits</figcaption>
+                    </figure>
 
-            <section class="next-project column-small">
-                <a href="../../work/project-title-b/">
-                    Go to next project
-                </a>
-            </section>
+                    <figure>
+                        <img loading="lazy" src="./media/cover.jpg" alt="Image of my project">
+
+                        <figcaption>Photo caption & credits</figcaption>
+                    </figure>
+                </section>
+
+                <section class="next-project column-next">
+                    <a href="../../work/project-title-b/">
+                        Go to next project
+                    </a>
+                </section>
+
+            </article>
+            
         </main>
 
         <script src="../../assets/scripts/script.js" type="text/javascript"></script>
