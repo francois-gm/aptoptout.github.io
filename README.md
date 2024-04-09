@@ -169,6 +169,19 @@ To embed a Vimeo video take these steps:
 
 As of 2019 browsers block autoplaying videos, the rule is now that if a user visits a website they need to interact first in order for videos to play (unless you add the attribute `muted` attribute to your `<video>`. This is to protect users.
 
+## Ingredients to play with (in the stylesheet)
+
+- Change the color scheme.
+- Add [borders](https://www.w3schools.com/css/css_border.asp), funky [underlines](https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-style), decorative elements like [outlines](https://www.w3schools.com/css/css_outline.asp) or [shadows](https://www.w3schools.com/css/css3_shadows.asp)?
+- Change the typeface, use two typefaces (one for headings and one for paragraphs?), review its sizing (more contrast between heading and paragraph, or less contrast?).
+- Change the layout (column sizes) while keeping the HTML markup.
+- Add CSS 'hover' transition effects.
+- Use CSS [filters](https://developer.mozilla.org/en-US/docs/Web/CSS/filter) or [mix-blend-mode](https://developer.mozilla.org/en-US/docs/Web/CSS/mix-blend-mode) on images?
+- Add [CSS transitions](https://www.w3schools.com/css/css3_transitions.asp), [CSS animations](https://www.w3schools.com/css/css3_animations.asp), [CSS transforms](https://developer.mozilla.org/en-US/docs/Web/CSS/transform), or a bit of all of that?
+- Add rounded corders with [border-radius](https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius).
+- Change margin and padding values.
+- Add a background image, video or [CSS gradient](https://cssgradient.io)?
+
 ## How to take it further
 
 - [How to - Portfolio Gallery with Filtering](https://www.w3schools.com/howto/howto_js_portfolio_filter.asp)
