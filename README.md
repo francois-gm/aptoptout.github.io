@@ -233,21 +233,40 @@ Make sure to compare prices between hosting & domain providers, it differs quite
 
 ## Portfolio inspiration
 
-- [Studio Feixen](https://www.studiofeixen.ch)
-- [United Visual Artists](https://www.uva.co.uk)
-- [Afrika](https://www.afrika.to)
-- [Node](https://node.international)
+Navigation:
+
+- [Conversation Taking Place](https://conversation-taking-place.com)
+- [Jordy Studio](https://jordy.studio)
+- [Margi Pippi](https://margipippi.com)
+- [Nazli Ercan](https://nazli-ercan.com)
+- [De Akaker Strucl](https://deakakerstrucl.com)
+- [Anna Cairns](https://annacairns.com)
+- [Clara Berger](https://claraberger.net)
+- [Studio Bas Koopmans](https://studiobaskoopmans.com/)
+- [Pointer Studio](https://pointer.click/)
+- [Sebastian Ly Serena](http://sebastianlyserena.dk)
+- [Yannic Poepperling](https://yannicpoepperling.de)
+- [Katrin Krumm](https://katrinkrumm.de/)
+- [Node](https://node.international/)
 - [Michel Egger](https://www.michelegger.ch)
 - [Formafantasma](https://formafantasma.com)
 - [Parabol Studio](https://parabolstudio.no)
-- [Sara Kaaman](https://www.sarakaaman.com)
 - [Elina Birkehag](https://elinabirkehag.com)
+- [Rietlanden Women's Office](https://rietlanden.womensoffice.nl/works.html)
 - [Studio Darius Ou](https://dariusou.work)
-- [Medusa](https://medusaoffspace.com)
-- [Werker Collective](https://www.werkercollective.net)
 - [Zeno Beikircher](https://zenobei.com)
 - [Büro Vivien Hoffmann](http://www.vivienhoffmann.com)
 - [Studio Remco van Bladel](https://remcovanbladel.nl)
+- [Lynne Carty](http://lynnecarty.info)
+- [Bram van der Beke](https://bramvanderbeke.com)
+- [Tom Bubul](https://tombubul.info)
+- [Alan Trotter](https://alantrotter.com)
+- [Vytautaus Kumza](http://vytautaskumza.com)
+- [Farah al Gasimi](https://farahalqasimi.com)
+- [Ana Maria Gomez Lopez](https://anamariagomezlopez.info)
+- [Lukas Engelhardt](https://lukasengelhardt.net/)
+- [Studio Zuzana](https://studiozuzana.xyz)
+- [Carmen Dusmet Carassco](https://www.carmendusmet.net/)
 
 ## Website tutorials
 
