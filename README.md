@@ -244,8 +244,6 @@ Make sure to compare prices between hosting & domain providers, it differs quite
 
 ## Portfolio inspiration
 
-Navigation:
-
 - [Conversation Taking Place](https://conversation-taking-place.com)
 - [Jordy van den Nieuwendijk](https://jordy.studio)
 - [Margi Pippi](https://margipippi.com)
