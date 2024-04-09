@@ -120,8 +120,17 @@ Keep them light, fast and proper.
 2. Resolution: don't use images that exceed **1920px width or height**
 3. Format: for photos use JPG but for vector images with transparency use either SVG or PNG.
 4. GIF: don't use GIF files (use videos on loop instead, .mp4 format).
-5. Use browser lazy loading for images: [read more here](https://web.dev/articles/browser-level-image-lazy-loading).
+5. Use browser lazy loading for images: [read more here](https://web.dev/articles/browser-level-image-lazy-loading).* 
 
+\* ... but the **first** visible image on your page should **not** be lazy loaded.
+
+#### How to?
+
+**Compress your .jpg with Photoshop** using the **'Save for Web (Legacy)'** option (under `File->Export`), `[Shift]+[Alt]+[Cmd]+[S]`, with the appropriate image width resizing and the quality setting between **50** and **60** (target under 200kb, the less the better).
+
+If 'Save for Web (Legacy)' is not available, use **'Export As'** (under `File->Export`).
+
+Or, optionally, you can use this mac software called [ImageOptim](https://imageoptim.com/).
 
 ### Videos
 
@@ -129,7 +138,10 @@ It's highly recommended to upload your videos to a service such as YouTube or Vi
 
 1. Codec: use **H.264** this will reduce file size and keep quality.
 2. File format: use **.mp4**
-3. MOV: don't use MOV files
+3. Limit the bitrate to preferably **2mb/minute**, but you could go to max 8mb/min if the video is really short.
+4. MOV: don't use MOV files.
+
+Tools to convert your video here: [cloudconvert.com/mp4-converter](https://cloudconvert.com/mp4-converter)
 
 **YouTube embedding**
 
@@ -140,7 +152,7 @@ To embed a YouTube video take these steps:
 3. Click on the **share** button below video
 4. Click on the **embed** button in popup window
 5. Copy code
-6. Paste in your html document where you want the embedded video
+6. Paste in your html document where you want the embedded video (you can change the `width` and `height` parameters to `width="100%"` and `height="auto"`.)
 
 **Vimeo embedding**
 
@@ -151,10 +163,11 @@ To embed a Vimeo video take these steps:
 3. Click on **embed** tab on the left navigation panel
 4. Click on dark blue **embed code** button (this copies code for you to clipboard)
 5. Paste in your html document where you want the embedded video
-
+6. Paste in your html document where you want the embedded video (you can change the `width` and `height` parameters to `width="100%"` and `height="auto"`.)
+7. 
 **Autoplay**
 
-As of 2019 browsers block autoplaying videos, the rule is now that if a user visits a website they need to interact first in order for videos to play. This is to protect users. I believe **Vimeo Pro** still has a way for autoplay to work but best and easiest practice is to simply have videos that play upon click.
+As of 2019 browsers block autoplaying videos, the rule is now that if a user visits a website they need to interact first in order for videos to play (unless you add the attribute `muted` attribute to your `<video>`. This is to protect users.
 
 ## How to take it further
 
@@ -202,7 +215,8 @@ No, actually not.
 
 If you have your own domain name – or if you haven't – hosting is optional, using GitHub Pages or Netlify you can easily host your Github repository for free!
 
-Having your own server is great, its yours and it will always be yours as long as you keep paying but having it is maybe overkill for your portfolio website which won't have thát much content. Seeing that hosting plans start at 5 gigabytes that's a lot of space which you won't use.
+Having your own server is great, its yours and it will always be yours as long as you keep paying but having it is maybe overkill for your portfolio website.
+
 
 ### Hosting companies & domain providers
 
@@ -215,7 +229,7 @@ Make sure to compare prices between hosting & domain providers, it differs quite
 - [Hostgator](https://www.hostgator.com)
 - [Antagonist](https://www.antagonist.nl)
 - [Neostrada](https://www.neostrada.com)
-- [Godaddy](https://www.godaddy.com)
+- [OVH](https://www.ovhcloud.com/nl/web-hosting/personal-offer/)
 
 ## Portfolio inspiration
 
