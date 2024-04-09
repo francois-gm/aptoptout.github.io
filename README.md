@@ -7,16 +7,16 @@ Thinking about one's self-representation online.
 3) How shall I 'present my self', language-wise, working out the narrative (the '[obligation to self-design](https://www.e-flux.com/journal/00/68457/the-obligation-to-self-design/)')?
 4) What formats can be used to present my self and practice, on which mediums, and on which platforms? (See 1 for hints).
 
-# Showcasing yourself online
+## Showcasing yourself online
 
 Options:
 
-- A website
+- A *website*
 - - ... made with a website builder ([webflow](https://webflow.com), [cargo](https://cargo.site), [hotglue](https://hotglue.me), etc) (€–€€).
   - ... made *by hand* using HTML, CSS, and (a bit) of Javascript (?) (€).
   - ... made by someone you commissionned (€€€).
 
-- A Document
+- A *document*
 - - ... in the form of an ebook with interactions and hyperlinks.
   - ... or a conventionally (but timelessly) designed .pdf
   - ... hosted online via Dropbox, Google Docs, WeTransfer, etc.
@@ -24,18 +24,19 @@ Options:
   - ... or a Github repository ([like here](https://github.com/quentin-f451/quentincreuzet.fr)).
   - to be sent online by email, to be self-hsoted, to be shared on social medias?
  
-- An online platform presence
+- An *online platform presence*
 - - ... a social media account (instagram, or what's the flavour of the day?)
   - ... a newsletter (don't forget about user's consent to subscribe to your newsletter)
     
-- Attending events
-  - ... cultural events where *peers* are present (be mindful of others – and put your ego aside)
-  - ... fairs?
-  - ... having some promotional prints in hand (business card)?
+- Being *physical*
+  - ... attending cultural events where *peers* are present (be mindful of others – and put your ego aside)
+  - ... attending fairs?
+  - ... *organizing* events?
+  - ... distributing promotional prints (business cards, etc)?
 
-- A bit of all that...
+- Or a bit of all that...
  
-# A portfolio website
+## A portfolio website
 
 This is a lightweight, pure HTML & CSS, portfolio website template which is free to be used and adopted for anyone.
 
