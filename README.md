@@ -1,4 +1,4 @@
-# The *obligation* to self-design (and showcasing yourself online)
+# The *obligation* to self-design
 
 Thinking about one's self-representation online.
 
@@ -34,7 +34,7 @@ Thinking about one's self-representation online.
 
 - Or a bit of all that...
  
-## A portfolio website
+## Online, a portfolio website
 
 For this workshop, we will think about your online presence in the form of a (traditional) hand-coded website.
 
