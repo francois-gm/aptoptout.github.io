@@ -104,25 +104,30 @@ Web fonts are specific files (.woff or .woff2) which you can use in CSS to use o
 
 ## Preparing media for online use
 
-You will be using lots of media and files on your website from images to videos and fonts. It's important to be optimal in terms of sizes and resolutions to get your website to respond quickly and work properly. Also when looking at prices above it will cost you literally money if you are not optimal with your file sizes. 
+You will be using lots of media and files on your website from images to videos and fonts. It's important to be **optimal** in terms of **sizes** and **resolutions** to get your website to respond **quickly** and work **properly**.
+
+As a rule of thumbs your website should load under 3000ms (3 seconds).
+
+> "Statistics indicate that **40% of visitors will leave a website** if it takes longer than **three seconds** to load." – [[Source, browserstack](https://www.browserstack.com/guide/how-fast-should-a-website-load)]
 
 Below are some general rules and best practices regarding using media.
 
 ### Images
 
-Image files can make your website super slow, I often see wrong settings used so below are some general rules you need to follow to keep your website light, fast and proper.
+Keep them light, fast and proper.
 
 1. Size: keep your image sizes below **200 kb** (yes that is kilo bytes!)
 2. Resolution: don't use images that exceed **1920px width or height**
-3. DPI: use maximal **150 dpi**
-4. JPG or PNG: for photos use JPG but for vector images use PNG
-5. GIF: don't use GIF files
+3. Format: for photos use JPG but for vector images with transparency use either SVG or PNG.
+4. GIF: don't use GIF files (use videos on loop instead, .mp4 format).
+5. Use browser lazy loading for images: [read more here](https://web.dev/articles/browser-level-image-lazy-loading).
+
 
 ### Videos
 
 It's highly recommended to upload your videos to a service such as YouTube or Vimeo because their servers are much faster and they provide good embedding options.
 
-1. Codec: use **H.264** this will reduce file size and keep quality
+1. Codec: use **H.264** this will reduce file size and keep quality.
 2. File format: use **.mp4**
 3. MOV: don't use MOV files
 
