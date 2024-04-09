@@ -20,7 +20,7 @@ Options:
 - - ... in the form of an ebook with interactions and hyperlinks.
   - ... or a conventionally (but timelessly) designed .pdf
   - ... hosted online via Dropbox, Google Docs, WeTransfer, etc.
-  - ... or a Google Spreadsheet
+  - ... or a Google Spreadsheet ([like here](https://nickytes.la)).
   - ... or a Github repository ([like here](https://github.com/quentin-f451/quentincreuzet.fr)).
   - to be sent online by email, to be self-hsoted, to be shared on social medias?
  
@@ -236,16 +236,16 @@ Make sure to compare prices between hosting & domain providers, it differs quite
 Navigation:
 
 - [Conversation Taking Place](https://conversation-taking-place.com)
-- [Jordy Studio](https://jordy.studio)
+- [Jordy van den Nieuwendijk](https://jordy.studio)
 - [Margi Pippi](https://margipippi.com)
-- [Nazli Ercan](https://nazli-ercan.com)
-- [De Akaker Strucl](https://deakakerstrucl.com)
+- [Nazlı Ercan](https://nazli-ercan.com)
+- [Dea Kaker Štrucl](https://deakakerstrucl.com)
 - [Anna Cairns](https://annacairns.com)
 - [Clara Berger](https://claraberger.net)
 - [Studio Bas Koopmans](https://studiobaskoopmans.com/)
-- [Pointer Studio](https://pointer.click/)
+- [Studio Pointer*](https://pointer.click/)
 - [Sebastian Ly Serena](http://sebastianlyserena.dk)
-- [Yannic Poepperling](https://yannicpoepperling.de)
+- [Studio Yannic Poepperling](https://yannicpoepperling.de)
 - [Katrin Krumm](https://katrinkrumm.de/)
 - [Node](https://node.international/)
 - [Michel Egger](https://www.michelegger.ch)
@@ -258,15 +258,15 @@ Navigation:
 - [Büro Vivien Hoffmann](http://www.vivienhoffmann.com)
 - [Studio Remco van Bladel](https://remcovanbladel.nl)
 - [Lynne Carty](http://lynnecarty.info)
-- [Bram van der Beke](https://bramvanderbeke.com)
+- [Bram Vanderbeke](https://bramvanderbeke.com)
 - [Tom Bubul](https://tombubul.info)
 - [Alan Trotter](https://alantrotter.com)
-- [Vytautaus Kumza](http://vytautaskumza.com)
-- [Farah al Gasimi](https://farahalqasimi.com)
-- [Ana Maria Gomez Lopez](https://anamariagomezlopez.info)
+- [Vytautas Kumža](http://vytautaskumza.com)
+- [Farah al Qasimi](https://farahalqasimi.com)
+- [Ana María Gómez López](https://anamariagomezlopez.info)
 - [Lukas Engelhardt](https://lukasengelhardt.net/)
-- [Studio Zuzana](https://studiozuzana.xyz)
-- [Carmen Dusmet Carassco](https://www.carmendusmet.net/)
+- [Studio Zuzana Kostelanská](https://studiozuzana.xyz)
+- [Carmen Dusmet Carrasco](https://www.carmendusmet.net/)
 
 ## Website tutorials
 
