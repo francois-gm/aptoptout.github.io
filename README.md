@@ -167,7 +167,7 @@ To embed a Vimeo video take these steps:
 7. 
 **Autoplay**
 
-As of 2019 browsers block autoplaying videos, the rule is now that if a user visits a website they need to interact first in order for videos to play (unless you add the attribute `muted` attribute to your `<video>`. This is to protect users.
+As of 2019 browsers block autoplaying videos, the rule is now that if a user visits a website they need to interact first in order for videos to play (unless you add the attribute `muted` attribute to your `<video>`.
 
 ## Ingredients to play with (in the stylesheet)
 
