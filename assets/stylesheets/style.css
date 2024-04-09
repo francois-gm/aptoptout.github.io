@@ -11,7 +11,9 @@
 	--base-unit-s: 18px;
 	--base-unit-m: calc(var(--base-unit-s) * 1.5);
 	--base-unit-l: calc(var(--base-unit-s) * 3);
-	--main-color: rgb(0, 212, 96);
+	--color-background: rgba(255, 255, 255,1);
+	--color-text: rgba(0,0,0,1);
+	--color-accent: rgba(0, 0, 255,1);
 }
 
 html {
@@ -21,6 +23,7 @@ html {
 
 body {
 	margin: var(--base-unit-s);
+	background-color: var(--color-background);
 }
 
 img {
@@ -33,21 +36,21 @@ img {
 /* TYPOGRAPHY */
 
 a {
-	color: var(--main-color);
+	color: var(--color-accent);
 	text-decoration: none;
 }
 
 a:hover {
-	color: black;
+	color: var(--color-text);
 }
 
 .project-thumbnail a {
-	color: black;
+	color: var(--color-text);
 	text-decoration: none;
 }
 
 .project-thumbnail a:hover {
-	color: var(--main-color);
+	color: var(--color-accent);
 }
 
 .project-thumbnail-info-metadata, 
@@ -59,14 +62,17 @@ h1,
 h2,
 p {
 	font-size: 1rem;
-	line-height: 1.33em;
+	line-height: 1.25em;
 	font-weight: normal;
 	margin: 0;
 }
 
 h1,
 h2 {
-	text-transform: uppercase;
+	display: inline-block;
+	clear: both;
+	font-size: 1rem;
+	text-transform: none;
 }
 
 p + p {
@@ -128,18 +134,26 @@ main {
 }
 
 .project-thumbnail-info-metadata {
-	color: black;
+	color: var(--color-text);
 }
 
 .project-thumbnail-info-description {
-	color: rgba(0, 0, 0, 1);
+	color: var(--color-text);
+}
+
+.project-thumbnail-cover{
+	
+}
+
+.project-thumbnail-cover img{
+
 }
 
 /*
 /*
 /* PROJECT PAGE */
 
-.project-info-description {
+.project-info {
 	margin-bottom: var(--base-unit-l);
 }
 
@@ -155,7 +169,7 @@ main {
 }
 
 .project-media figure figcaption {
-	font-size: 0.78rem;
+	font-size: 0.8em;
 	font-style: italic;
 	padding-top: 0.5em;
 }
