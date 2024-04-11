@@ -1,4 +1,4 @@
-# The *obligation* to self-design
+# The "*obligation*" to self-design
 
 Thinking about one's self-representation online.
 
@@ -265,6 +265,9 @@ Make sure to compare prices between hosting & domain providers, it differs quite
 - [Studio Darius Ou](https://dariusou.work)
 - [Zeno Beikircher](https://zenobei.com)
 - [Büro Vivien Hoffmann](http://www.vivienhoffmann.com)
+- [Medusa](https://medusaoffspace.com)
+- [Sara Kaaman](https://www.sarakaaman.com)
+- [Julijonas Urbonas](https://julijonasurbonas.lt)
 - [Studio Remco van Bladel](https://remcovanbladel.nl)
 - [Lynne Carty](http://lynnecarty.info)
 - [Bram Vanderbeke](https://bramvanderbeke.com)
