@@ -1,4 +1,4 @@
-# The "*obligation*" to self-design
+# The “*obligation*” to self-design
 
 Thinking about one's self-representation online.
 
