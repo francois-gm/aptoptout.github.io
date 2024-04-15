@@ -128,7 +128,7 @@ Keep them light, fast and proper.
 
 If 'Save for Web (Legacy)' is not available, use **'Export As'** (under `File->Export`).
 
-Or, optionally, you can use this mac software called [ImageOptim](https://imageoptim.com/).
+Or, optionally, you can use [Squoosh.app](https://squoosh.app), which has a great online image converter.
 
 ### Videos
 
