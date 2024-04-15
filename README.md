@@ -210,6 +210,31 @@ If you don't mind a URL which isn't something like "yourname.lol" or "myname.xyz
 
 Personally, I think having a unique domain name is nice but its not for free so you decide obviously.
 
+### Hosting your webpage on Github
+
+[Download here](https://desktop.github.com), and follow the installation steps...
+
+Follow the official documentation instructions here: https://pages.github.com
+
+In your Githup Desktop App (top left corner of the app):
+- `Add -> Create new repository`
+- Naming convention: `[username].github.io` (example: francois-gm.github.io)... 
+- Path: *where you will be working on your website from your computer desktop drive.*
+- Other options: *as you wish (you can always add these files later if you want).*
+- After you have created your repository, publish it online!
+- Then, choose: `Github.com`
+- Make sure 'keep this code private' is **not checked**! Otherwise your website won't be available online (!)
+
+- Now, you can do the following actions in order to 'update' your website 'fetch', 'commit', 'push' and 'pull'.
+- This will be your URL: https://[username].github.io
+- But it throws an error 404! Oops.
+- Just add an `index.html` file to your folder, make a 'commit', and 'push' that commit: this will update the github folder with your changes.
+- Then, on the Github website, go to your repository folder, click over it. Once inside it, go to -> `settings`. Then -> `Pages`. For `source`, choose `main`, and **save**.
+
+Now it should be public and online at the said url :)
+
+Also, Github offers [free student subscriptions](https://education.github.com/discount_requests/application), (while you are a student) maybe that could be interesting?
+
 ### Hosting
 
 Hosting is a service you buy to get server space allocated. For instance you can get 10GB space and pay a yearly fee. With this you usually get some extra services such as: email and FTP.
